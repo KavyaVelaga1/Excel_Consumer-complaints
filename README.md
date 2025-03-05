@@ -34,8 +34,8 @@ The analysis includes pivot tables and dashboards that provide insights into the
 
 You can access the raw data file and the corresponding pivot tables and dashboards in this repository.
 
-1. Go to the `consumer complaints` folder in this repository.
-2. Download the raw **Excel** data file (e.g., `consumer_complaints.xlsx`).
+1. Go to the `consumer_complaints.xlsx` folder in this repository.
+2. Download the raw **Excel** data file (`consumer_complaints.xlsx`).
 3. View the pivot tables and dashboards that are built based on this data.
 
 These files are designed to offer in-depth analysis of the consumer complaints data.
