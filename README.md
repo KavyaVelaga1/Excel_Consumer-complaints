@@ -1,26 +1,33 @@
+# Consumer Complaints Dataset Analysis
+
 This dataset contains information about consumer complaints, with columns that include:
 
-Complaint ID,
-Submitted via,
-Date submitted,
-Date received,
-State,
-Product,
-Sub-product,
-Issue,
-Sub-issue,
-Company public response,
-Company response to consumer, and
-Timely response.
+- **Complaint ID**
+- **Submitted via**
+- **Date submitted**
+- **Date received**
+- **State**
+- **Product**
+- **Sub-product**
+- **Issue**
+- **Sub-issue**
+- **Company public response**
+- **Company response to consumer**
+- **Timely response**
 
-Questions such as: How many complaints were submitted via different channels (e.g., Web, Referral) over time? 
+## Questions Addressed
 
-What are the top 5 states with the most complaints? 
+The analysis answers the following questions using pivot tables and dashboards:
 
-What are the top 5 states with the fewest complaints?
+1. **How many complaints were submitted via different channels (e.g., Web, Referral) over time?**
+2. **What are the top 5 states with the most complaints?**
+3. **What are the top 5 states with the fewest complaints?**
+4. **Which product categories receive the most complaints?**
+5. **What types of responses are most common for each product?**
+6. **What is the distribution of timely responses to consumer complaints?**
 
-Which product categories receive the most complaints?
+## Pivot Tables and Dashboards
 
-What types of responses are most common for each product?
+The analysis includes pivot tables and dashboards that provide insights into the above questions. The dashboards offer a visual representation of trends and distributions in consumer complaints across various dimensions.
 
-What is the distribution of timely responses to consumer complaints? are answerd by using pivot tables and dashboard is created.
+---
